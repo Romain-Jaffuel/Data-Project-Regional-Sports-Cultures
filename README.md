@@ -12,15 +12,16 @@ Sports are approached as cultural systems shaped by territory, collective practi
 
 ![Final infographic](Infographie%20Finale%20-%20groupe%205.png)
 
-## Dataset and Methodology
+## Data Sources
 
-This study uses several national datasets:
+**• Geocoded sports licenses and clubs (Ministry of Sports)**  
+https://www.data.gouv.fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports/
 
-- Geolocated sports clubs and facilities  
-- Licensing statistics from sports federations  
-- Secondary-education sports sections  
-  (summaries visible on page 1 of the *Sections Sportives Scolaires* document :contentReference[oaicite:0]{index=0})
-- Commune-level demographic data
+**• Geocoded sports facilities and clubs (alternative view)**  
+https://www.data.gouv.fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports/
+
+**• Municipal population dataset (INSEE)**  
+https://www.data.gouv.fr/datasets/population-municipale-des-communes-france-entiere/
 
 ### Analytical Methods
 
