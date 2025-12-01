@@ -23,7 +23,7 @@ https://www.data.gouv.fr/datasets/donnees-geocodees-issues-du-recensement-des-li
 **• Municipal population dataset (INSEE)**  
 https://www.data.gouv.fr/datasets/population-municipale-des-communes-france-entiere/
 
-### Analytical Methods
+## Analytical Methods
 
 - Spatial distribution and density analysis  
 - Ratio indicators for over-/under-representation by municipality size  
@@ -40,14 +40,14 @@ These elements follow a comparative territorial logic, treating Occitanie as the
 - Football expanded in industrial regions through mining communities and paternalistic employers.  
 - Rugby spread via urban elites before becoming rooted in small towns and rural communities across the South-West.
 
-These dynamics are detailed in pages 2–7 of the *Idées & Recherches* document. :contentReference[oaicite:1]{index=1}
+These dynamics are detailed in pages 2–7 of the *Idées & Recherches* document.
 
 ### 2. Marked Spatial Asymmetries
 
 - Rugby displays a clear rural pattern in Occitanie, with over-representation in communes under 5,000 inhabitants and under-representation in larger ones.  
 - Football remains strongly urban-centred in the Hauts-de-France, aligned with industrial metropolitan areas.
 
-This contrast appears clearly in the maps and density plots of the *Carnet de Bord* (pages 24–26). :contentReference[oaicite:2]{index=2}
+This contrast appears clearly in the maps and density plots of the *Carnet de Bord* (pages 24–26).
 
 ### 3. Educational-Offer Divergence
 
@@ -55,7 +55,7 @@ This contrast appears clearly in the maps and density plots of the *Carnet de Bo
 - Occitanie shows the opposite trend, with 1.68 times more rugby sections than football.
 
 A chi-square test (χ² = 31.97, p < .001) confirms that these differences are structurally significant.  
-Supporting information is visible on page 1 of the *Sections Sportives Scolaires* note. :contentReference[oaicite:3]{index=3}
+Supporting information is visible on page 1 of the *Sections Sportives Scolaires* note.
 
 ### 4. Sociological Interpretation
 
@@ -64,7 +64,7 @@ Drawing on Darbon’s anthropology of sports and Coulangeon’s cultural theory:
 - **Rugby** functions as a communal culture emphasising embodied cohesion, local belonging, and ritualised sociability (e.g., “third half”).  
 - **Football** reflects a working-class urban identity linked to industrial heritage and large-scale spectator communities.
 
-These insights are synthesised in pages 18–23 of the *Carnet de Bord*. :contentReference[oaicite:4]{index=4}
+These insights are synthesised in pages 18–23 of the *Carnet de Bord*.
 
 ## Conclusion
 
