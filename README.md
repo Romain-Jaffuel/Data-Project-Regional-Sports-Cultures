@@ -10,6 +10,8 @@ The central research question is:
 
 Sports are approached as cultural systems shaped by territory, collective practices, and long-term social histories. Following an anthropological definition of culture as “a set of norms, symbolic productions and shared representations” (Coulangeon, 2022), the project examines how each sport functions as a regional identity vector.
 
+![Final infographic](Infographie%20Finale%20-%20groupe%205.png)
+
 ## Dataset and Methodology
 
 This study uses several national datasets:
